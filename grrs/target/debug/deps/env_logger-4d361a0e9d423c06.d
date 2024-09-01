@@ -1,0 +1,11 @@
+/Users/asty/programming/rust-projects/cli-tool/grrs/target/debug/deps/libenv_logger-4d361a0e9d423c06.rmeta: /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/lib.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/logger.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/mod.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/humantime.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/mod.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/buffer.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/target.rs
+
+/Users/asty/programming/rust-projects/cli-tool/grrs/target/debug/deps/env_logger-4d361a0e9d423c06.d: /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/lib.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/logger.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/mod.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/humantime.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/mod.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/buffer.rs /Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/target.rs
+
+/Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/lib.rs:
+/Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/logger.rs:
+/Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/mod.rs:
+/Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/humantime.rs:
+/Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/mod.rs:
+/Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/buffer.rs:
+/Users/asty/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/target.rs:
